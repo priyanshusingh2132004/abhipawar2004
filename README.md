@@ -18,32 +18,31 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 
 **Frontend**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/en-us)
 
 
 **UI Toolkit And Framework**
 
-![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue)
+[![Flutter](https://img.shields.io/badge/Flutter-white?style=for-the-badge&logo=flutter&logoColor=blue)](https://docs.flutter.dev/)
 
 
 **Backend**
 
-![Firebase](https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase&logoColor=orange)
+[![Firebase](https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/docs)
 
 **Machine Learning**
 
-![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![numpy](https://img.shields.io/badge/numpy-FB2423?style=for-the-badge&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-g?style=for-the-badge&logo=plotly&logoColor=white)
+[![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![numpy](https://img.shields.io/badge/numpy-FB2423?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
+[![pandas](https://img.shields.io/badge/pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/stable/index.html)
+[![Seaborn](https://img.shields.io/badge/Seaborn-g?style=for-the-badge&logo=plotly&logoColor=white)](https://seaborn.pydata.org/)
 
 
 
 **Databases**
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
 
 ## 🚀 About Me

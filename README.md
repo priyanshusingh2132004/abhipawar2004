@@ -48,7 +48,7 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 ## 🚀 About Me
 
 👩‍💻 **Currently Working On...**  
-   - I'm currently immersed in exciting projects like building a Netflix Clone Application and creating a Application with integration of  Machine Learning .
+   - I'm currently immersed in exciting projects like building a Shopping Application connected to a firebase.
 
 🧠 **Currently Learning...**  
    - I'm deeply engaged in learning the intricacies of  Cross-Development, constantly expanding my skills to tackle new challenges.

@@ -16,10 +16,6 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://dev.java/learn/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 
-**Frontend**
-
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://help.figma.com/hc/en-us)
-
 
 **UI Toolkit And Framework**
 

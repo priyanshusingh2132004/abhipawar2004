@@ -3,7 +3,7 @@
 
 
 
-I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cross-platform mobile applications, web applications, and desktop applications. Eager to master Dart programming language and Flutter...
+I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cross-platform mobile applications, web applications, and desktop applications. Eager to master Dart programming language and Flutter....
 
 
 

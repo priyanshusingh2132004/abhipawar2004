@@ -32,8 +32,6 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 [![numpy](https://img.shields.io/badge/numpy-FB2423?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
 [![pandas](https://img.shields.io/badge/pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/stable/index.html)
-[![Seaborn](https://img.shields.io/badge/Seaborn-g?style=for-the-badge&logo=plotly&logoColor=white)](https://seaborn.pydata.org/)
-
 
 
 **Databases**

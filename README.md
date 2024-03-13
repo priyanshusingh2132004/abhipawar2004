@@ -28,7 +28,6 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 
 **Machine Learning**
 
-[![scikit-learn](https://img.shields.io/badge/scikit_learn-E10098?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![numpy](https://img.shields.io/badge/numpy-FB2423?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/doc/stable/)
 [![pandas](https://img.shields.io/badge/pandas-276DC3?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/stable/index.html)

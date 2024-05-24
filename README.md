@@ -43,5 +43,4 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pawar10/)
 [![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarabhi2004@gmail.com)
 
-## Contribution Snake Animation
-![Contribution snake](dist/github-snake.svg)
+

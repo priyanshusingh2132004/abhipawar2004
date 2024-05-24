@@ -28,14 +28,14 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
    - I'm currently immersed in exciting projects like building a Shopping Application connected to a firebase.
 
 🧠 **Currently Learning...**  
-   - I'm deeply engaged in learning the intricacies of  Cross-Development, constantly expanding my skills to tackle new challenges.
+   - I'm deeply engaged in learning the intricacies of Cross-Development, constantly expanding my skills to tackle new challenges.
 
 🤔 **Looking for Help With...**  
    - I'm seeking guidance and support, especially from experienced developers, to enhance the Development process of my project.
 
 📫 **How to Reach Me...**  
    - I'd love to connect! You can reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-pawar10/) or [Gmail](mailto:pawarabhi2004@gmail.com)
- 
+
 💬 **Ask Me About...**  
    - Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
@@ -43,4 +43,5 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-pawar10/)
 [![Gmail](https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarabhi2004@gmail.com)
 
-
+## Contribution Snake Animation
+![Contribution snake](dist/github-snake.svg)

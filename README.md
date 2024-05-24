@@ -22,6 +22,12 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/)
 
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/abhishek-pawar10/)
+[![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pawarabhi2004@gmail.com)
+
+
 ## 🚀 About Me
 
 👩‍💻 **Currently Working On...**  
@@ -39,8 +45,5 @@ I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cros
 💬 **Ask Me About...**  
    - Feel free to ask me about anything related to my projects, data science, or any other tech-related topics you find intriguing.
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/abhishek-pawar10/)
-[![Gmail](https://img.shields.io/badge/gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:pawarabhi2004@gmail.com)
 
 

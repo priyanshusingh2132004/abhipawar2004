@@ -21,7 +21,7 @@
 
 **Backend**
 
-[![Firebase](https://img.shields.io/badge/Firebase-grey?style=for-the-badge&logo=firebase&logoColor=orange)](https://firebase.google.com/docs)
+[![Firebase](https://img.shields.io/badge/Firebase-white?style=for-the-badge&logo=firebase&logoColor=FF0000)](https://firebase.google.com/docs)
 
 **Databases**
 

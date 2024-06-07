@@ -48,5 +48,4 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 ## 📈 GitHub Stats
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipawar2004&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar2004&layout=compact)](https://github.com/abhipawar2004/github-readme-stats)
-r building scalable and secure applications.
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar2004&layout=compact&theme=radical)](https://github.com/abhipawar2004/github-readme-stats)

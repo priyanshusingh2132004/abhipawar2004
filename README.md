@@ -1,24 +1,50 @@
-<h1 align="center">Hi 👋, I'm Abhishek Pawar</h1>
-<h3 align="center">I'm Abhishek Pawar, an Aspiring Flutter developer passionate about creating cross-platform mobile applications, web applications, and desktop applications. Eager to master Dart programming language and Flutter</h3>
+# Hi there, I'm Abhishek Pawar 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhipawar2004&label=Profile%20views&color=0e75b6&style=flat" alt="abhipawar2004" /> </p>
+I'm a passionate Flutter Developer specializing in creating cross-platform mobile applications. Proficient in Dart programming language and the Flutter framework.
 
-- 🔭 I’m currently working on [ShoppingApp](https://github.com/abhipawar2004/ShoppingApp)
+## 🚀 Currently Working On
 
-- 🌱 I’m currently learning **- I'm seeking guidance and support, especially from experienced developers, to enhance the Development process of my project.**
+- [ShoppingApp](https://github.com/abhipawar2004/ShoppingApp) - An e-commerce app built with Flutter, focusing on implementing state management with Provider and optimizing performance.
 
-- 💬 Ask me about **- I'm seeking guidance and support, especially from experienced developers, to enhance the Development process of my project.**
+## 📚 Currently Learning
 
-- 📫 How to reach me **pawarabhi2004@gmail.com**
+- Advanced Flutter concepts like state management, performance optimization, and testing.
+- Backend development with Firebase for building scalable and secure applications.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abhishek-pawar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-pawar10" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pawarabhi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pawarabhi2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhiiishek_pawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhiiishek_pawar" height="30" width="40" /></a>
-</p>
+## 🔭 Featured Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+- [MealMate](https://github.com/abhipawar2004/MealMate) - A recipe discovery app built with Flutter, featuring dietary filters and a favorites section.
+- [ExpenseTracker](https://github.com/abhipawar2004/Personal_Expenses) - A simple expense tracking app developed using Flutter.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhipawar2004&show_icons=true&locale=en&layout=compact" alt="abhipawar2004" /></p>
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
+### Frameworks and Libraries
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+
+### Design Tools
+
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Adobe Illustrator" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+
+### Databases and Backend
+
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40"/>
+
+### Version Control and Development Tools
+
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+
+## 🌐 Connect with Me
+
+<a href="https://linkedin.com/in/abhishek-pawar10" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+<a href="https://www.hackerrank.com/@pawarabhi2004" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40"/></a>
+<a href="https://www.leetcode.com/abhiiishek_pawar" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/></a>
+
+## 📈 GitHub Stats
+
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipawar2004&show_icons=true&theme=radical)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar2004&layout=compact)](https://github.com/abhipawar2004/github-readme-stats)

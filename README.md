@@ -5,7 +5,7 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 
 ## 🚀 Currently Working On
 
-- [ShoppingApp](https://github.com/abhipawar2004/ShoppingApp) - An e-commerce app built with Flutter, focusing on implementing state management with Provider and optimizing performances.
+- [Shoppy](https://github.com/abhipawar2004/ShoppingApp) - An e-commerce app built with Flutter, focusing on implementing state management with Provider and optimizing performances.
 
 ## 📚 Currently Learning
 

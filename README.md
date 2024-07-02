@@ -15,7 +15,7 @@ I'm a passionate Flutter Developer specializing in creating cross-platform mobil
 ## 🔭 Featured Projects
 
 - [MealMate](https://github.com/abhipawar2004/MealMate) - A recipe discovery app built with Flutter, featuring dietary filters and a favorites section.
-- [ExpenseTracker](https://github.com/abhipawar2004/Personal_Expenses) - A simple expense tracking app developed using Flutter.
+- [ExpenseHelper](https://github.com/abhipawar2004/Personal_Expenses) - A simple expense tracking app developed using Flutter.
 
 ## 🛠️ Languages and Tools
 
